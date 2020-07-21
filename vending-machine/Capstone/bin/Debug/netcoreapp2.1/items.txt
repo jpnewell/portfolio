@@ -1,0 +1,4 @@
+A1|Snickers|1.00|Candy
+A2|Lays|0.75|Chip
+A3|Coke|1.75|Drink
+A4|5ive|0.50|Gum
